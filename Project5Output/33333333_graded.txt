@@ -1,0 +1,22 @@
+Graduate Student Eric Bradner
+
+Student ID: 33333333
+
+Major: Military
+
+Advisor: Ted Cruz
+
+Received a score of 70 with 6 misspelled words:
+
+(1)means
+
+(2)standards
+
+(3)women
+
+(4)tanks
+
+(5)orders
+
+(6)soldiers
+

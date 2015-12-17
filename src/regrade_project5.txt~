@@ -1,0 +1,3 @@
+I thought sample input text provided in project 5 assignment page had several break lines in between sentences.My code had a for loop that removed those lines,but in the grading, the files provided did not have any break lines.I have erased part of my for loop so that it works with the input provided.
+
+And added the word "Student" next to "High School" in the output.
